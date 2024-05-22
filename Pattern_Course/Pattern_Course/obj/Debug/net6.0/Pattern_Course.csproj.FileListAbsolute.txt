@@ -1,0 +1,15 @@
+C:\Users\Юрий\source\repos\Pattern_Course\Pattern_Course\obj\Debug\net6.0\Pattern_Course.csproj.AssemblyReference.cache
+C:\Users\Юрий\source\repos\Pattern_Course\Pattern_Course\obj\Debug\net6.0\Pattern_Course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юрий\source\repos\Pattern_Course\Pattern_Course\obj\Debug\net6.0\Pattern_Course.AssemblyInfoInputs.cache
+C:\Users\Юрий\source\repos\Pattern_Course\Pattern_Course\obj\Debug\net6.0\Pattern_Course.AssemblyInfo.cs
+C:\Users\Юрий\source\repos\Pattern_Course\Pattern_Course\obj\Debug\net6.0\Pattern_Course.csproj.CoreCompileInputs.cache
+C:\Users\Юрий\source\repos\Pattern_Course\Pattern_Course\bin\Debug\net6.0\Pattern_Course.exe
+C:\Users\Юрий\source\repos\Pattern_Course\Pattern_Course\bin\Debug\net6.0\Pattern_Course.deps.json
+C:\Users\Юрий\source\repos\Pattern_Course\Pattern_Course\bin\Debug\net6.0\Pattern_Course.runtimeconfig.json
+C:\Users\Юрий\source\repos\Pattern_Course\Pattern_Course\bin\Debug\net6.0\Pattern_Course.dll
+C:\Users\Юрий\source\repos\Pattern_Course\Pattern_Course\bin\Debug\net6.0\Pattern_Course.pdb
+C:\Users\Юрий\source\repos\Pattern_Course\Pattern_Course\obj\Debug\net6.0\Pattern_Course.dll
+C:\Users\Юрий\source\repos\Pattern_Course\Pattern_Course\obj\Debug\net6.0\refint\Pattern_Course.dll
+C:\Users\Юрий\source\repos\Pattern_Course\Pattern_Course\obj\Debug\net6.0\Pattern_Course.pdb
+C:\Users\Юрий\source\repos\Pattern_Course\Pattern_Course\obj\Debug\net6.0\Pattern_Course.genruntimeconfig.cache
+C:\Users\Юрий\source\repos\Pattern_Course\Pattern_Course\obj\Debug\net6.0\ref\Pattern_Course.dll
